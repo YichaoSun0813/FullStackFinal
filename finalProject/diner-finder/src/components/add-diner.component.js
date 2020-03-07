@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import qs from 'qs';
+import './style.css';
 const axios = require('axios').default;
 
 export default class AddDiner extends Component {
